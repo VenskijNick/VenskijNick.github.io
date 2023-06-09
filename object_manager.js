@@ -2686,7 +2686,7 @@ function init () {
                 },
 
                 {"properties": {
-                    "balloonContentBody": "<img src='pic/105.jpg' style='margin-left: 60px; width: 300px; height: 300px;'/><div>В санатории действует скидка 25% на путевки для всех членов профсоюза при предоставлении справки. Также по возвращению из санатория - возмещение путевки в размере 3х базовых величин</div>",
+                    "balloonContentBody": "<img src='pic/нарочь.jpg' style='margin-left: 60px; width: 300px; height: 300px;'/><div>В санатории действует скидка 25% на путевки для всех членов профсоюза при предоставлении справки. Также по возвращению из санатория - возмещение путевки в размере 3х базовых величин</div>",
                     "balloonContentHeader": "<div>Нарочь</div>",
                         "balloonContent": "Профком",
                         "clusterCaption": "Профком",
